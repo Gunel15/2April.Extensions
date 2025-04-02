@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35828.75 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2AprilHomeTaskExtensions", "2AprilHomeTaskExtensions\2AprilHomeTaskExtensions.csproj", "{EF30047E-B7DA-4D0F-8488-2B39ECABF6C9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EF30047E-B7DA-4D0F-8488-2B39ECABF6C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF30047E-B7DA-4D0F-8488-2B39ECABF6C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF30047E-B7DA-4D0F-8488-2B39ECABF6C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF30047E-B7DA-4D0F-8488-2B39ECABF6C9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FC5F948A-5197-4CDB-AD4B-0AB9F0041D87}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "2AprilHomeTaskExtensions/1.0.0": {
+        "runtime": {
+          "2AprilHomeTaskExtensions.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "2AprilHomeTaskExtensions/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

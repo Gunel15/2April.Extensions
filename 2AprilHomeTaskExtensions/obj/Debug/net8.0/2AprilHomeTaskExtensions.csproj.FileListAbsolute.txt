@@ -1,0 +1,14 @@
+C:\Users\V&V\source\repos\2AprilHomeTaskExtensions\2AprilHomeTaskExtensions\bin\Debug\net8.0\2AprilHomeTaskExtensions.exe
+C:\Users\V&V\source\repos\2AprilHomeTaskExtensions\2AprilHomeTaskExtensions\bin\Debug\net8.0\2AprilHomeTaskExtensions.deps.json
+C:\Users\V&V\source\repos\2AprilHomeTaskExtensions\2AprilHomeTaskExtensions\bin\Debug\net8.0\2AprilHomeTaskExtensions.runtimeconfig.json
+C:\Users\V&V\source\repos\2AprilHomeTaskExtensions\2AprilHomeTaskExtensions\bin\Debug\net8.0\2AprilHomeTaskExtensions.dll
+C:\Users\V&V\source\repos\2AprilHomeTaskExtensions\2AprilHomeTaskExtensions\bin\Debug\net8.0\2AprilHomeTaskExtensions.pdb
+C:\Users\V&V\source\repos\2AprilHomeTaskExtensions\2AprilHomeTaskExtensions\obj\Debug\net8.0\2AprilHomeTaskExtensions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\V&V\source\repos\2AprilHomeTaskExtensions\2AprilHomeTaskExtensions\obj\Debug\net8.0\2AprilHomeTaskExtensions.AssemblyInfoInputs.cache
+C:\Users\V&V\source\repos\2AprilHomeTaskExtensions\2AprilHomeTaskExtensions\obj\Debug\net8.0\2AprilHomeTaskExtensions.AssemblyInfo.cs
+C:\Users\V&V\source\repos\2AprilHomeTaskExtensions\2AprilHomeTaskExtensions\obj\Debug\net8.0\2AprilHomeTaskExtensions.csproj.CoreCompileInputs.cache
+C:\Users\V&V\source\repos\2AprilHomeTaskExtensions\2AprilHomeTaskExtensions\obj\Debug\net8.0\2AprilHomeTaskExtensions.dll
+C:\Users\V&V\source\repos\2AprilHomeTaskExtensions\2AprilHomeTaskExtensions\obj\Debug\net8.0\refint\2AprilHomeTaskExtensions.dll
+C:\Users\V&V\source\repos\2AprilHomeTaskExtensions\2AprilHomeTaskExtensions\obj\Debug\net8.0\2AprilHomeTaskExtensions.pdb
+C:\Users\V&V\source\repos\2AprilHomeTaskExtensions\2AprilHomeTaskExtensions\obj\Debug\net8.0\2AprilHomeTaskExtensions.genruntimeconfig.cache
+C:\Users\V&V\source\repos\2AprilHomeTaskExtensions\2AprilHomeTaskExtensions\obj\Debug\net8.0\ref\2AprilHomeTaskExtensions.dll
