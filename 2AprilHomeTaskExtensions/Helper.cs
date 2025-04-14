@@ -10,7 +10,7 @@ namespace _2AprilHomeTaskExtensions
     {
 
 
-        public static bool IsOdd(int Number)
+        public static bool IsOdd(this int Number)
         {
             bool check = false;
             if (Number % 2 == 1)
@@ -27,7 +27,7 @@ namespace _2AprilHomeTaskExtensions
             return check;
         }
 
-        public static bool HasDigit(string value)
+        public static bool HasDigit(this string value)
         {
             bool check = false;
             foreach (char c in value)
@@ -38,8 +38,9 @@ namespace _2AprilHomeTaskExtensions
             return check;
         }
 
-        public static bool CheckPassword(string value)
+        public static bool CheckPassword(this string value)
         {
+            bool check = false;
             if (value.Length > 8 )
             {
                 bool hasdigit = false;
@@ -80,7 +81,12 @@ namespace _2AprilHomeTaskExtensions
                 
 
             }
-            
+            return check;
+        }
+
+        public static string Capitalize(this string value)
+        {
+            return char.ToUpper(value[0]) + value.Substring(1).ToLower();
         }
     }
 }

@@ -12,3 +12,4 @@ C:\Users\V&V\source\repos\2AprilHomeTaskExtensions\2AprilHomeTaskExtensions\obj\
 C:\Users\V&V\source\repos\2AprilHomeTaskExtensions\2AprilHomeTaskExtensions\obj\Debug\net8.0\2AprilHomeTaskExtensions.pdb
 C:\Users\V&V\source\repos\2AprilHomeTaskExtensions\2AprilHomeTaskExtensions\obj\Debug\net8.0\2AprilHomeTaskExtensions.genruntimeconfig.cache
 C:\Users\V&V\source\repos\2AprilHomeTaskExtensions\2AprilHomeTaskExtensions\obj\Debug\net8.0\ref\2AprilHomeTaskExtensions.dll
+C:\Users\V&V\source\repos\2AprilHomeTaskExtensions\2AprilHomeTaskExtensions\obj\Debug\net8.0\2AprilHomeTaskExtensions.sourcelink.json

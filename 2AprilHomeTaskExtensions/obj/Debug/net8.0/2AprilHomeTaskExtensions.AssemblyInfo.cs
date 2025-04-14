@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("2AprilHomeTaskExtensions")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d849e9ed21ce81586f74d248a111f5a6e549aaee")]
 [assembly: System.Reflection.AssemblyProductAttribute("2AprilHomeTaskExtensions")]
 [assembly: System.Reflection.AssemblyTitleAttribute("2AprilHomeTaskExtensions")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
